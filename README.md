@@ -87,3 +87,13 @@ Aplikasi Streamlit memungkinkan pengguna untuk:
 - Streamlit
 
 ---
+
+## Demo Aplikasi
+
+Aplikasi prediksi penjualan dapat diakses secara online melalui Streamlit:
+
+https://salesproject.streamlit.app/
+
+Pengguna dapat memasukkan jumlah barang, harga, bulan, dan tahun untuk mendapatkan prediksi penjualan secara real-time menggunakan model Machine Learning.
+
+---
